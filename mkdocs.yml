@@ -1,0 +1,4 @@
+site_name: mkdocs极简风格
+site_url: https://wzdworld.github.io/mkdocs-demo/
+theme:
+  name: mkdocs
